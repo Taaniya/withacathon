@@ -16,8 +16,26 @@
 
 An Intelligent Resource Predictor for Hospital Beds uses the information available on the current patients afflicted with COVID-19 to forecast the demand of hospital beds in each state. It highlights how the demand for beds is likely to grow in the coming days and the shortage that is being faced. This solution can be used by the Hospitals and Government authorities to ramp up the existing Infrastructure and cater to those in need. Every patient should get a chance to get treated and recover.
 
+# Demo Video
+[Watch the demo](https://www.youtube.com/watch?v=dd67Hhb15dg)
 
+# Long Description
+[See here](DESCRIPTION.md)
 
+# Project Roadmap
+![](solution_roadmap.png)
 
-Link for video:https://www.youtube.com/watch?v=dd67Hhb15dg 
+# Packages
+
+* Numpy
+* scickit-learn
+* Tensorflow 2.1.0
+* matplotlib
+
+# Authors
+
+* Paromita Sarkar
+* Soma Halder
+* Taaniya Arora
+* Anupama Gyanendra
 

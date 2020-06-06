@@ -47,9 +47,9 @@ Number of beds equipped for treating covid-19 patients   =0.05*(Total available 
 
 ### Exploratory Data Analysis :
 
-![](/images/top5_confirmed.png)
+![](./images/top5_confirmed.png)
 
-![](/images/top5_deceased.png)
+![](./images/top5_deceased.png)
 
 We have used LSTM - class of neural network models in machine learning that learns input information forming a sequence is RNN – Recurrent Neural Networks. These models can predict for current instance using the information fed to them in the past
 
@@ -64,7 +64,7 @@ Once the above statistics is identified number of beds that need to be equipped 
 
 Number of beds equipped for treating covid-19 patients   =0.05*(Total available beds in a city)
 
-![](/images/gaps_in_beds.png)
+![](./images/gaps_in_beds.png)
 
 Model B(covid19-India-resource-predictor):- Multivariate LSTM model with past positive count, total positive samples of patient, population density  as a features to predict positive count of patient on a given day.  After identifying number of patients for a given day , we dwell down to number of patients who need to be admitted using following formulae.
 
@@ -72,9 +72,9 @@ Total patient who require to be admitted =65/100*(Total patient predicted to be 
 Once the above statistics is identified number of beds that need to be equipped for treating COVID –19 patients can be calculated using below formulae
 Number of beds equipped for treating covid-19 patients   =0.05*(Total available beds in a city)
 
-![](/images/positive_prediction_MH.png)
+![](./images/positive_prediction_MH.png)
 
-![](/images/positive_prediction_DL.png)
+![](./images/positive_prediction_DL.png)
 
 
 

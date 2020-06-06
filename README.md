@@ -23,7 +23,7 @@ An Intelligent Resource Predictor for Hospital Beds uses the information availab
 [See here](DESCRIPTION.md)
 
 # Project Roadmap
-![](solution_roadmap.png)
+![](./visualizations/solution_roadmap.png)
 
 # Packages
 

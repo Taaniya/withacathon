@@ -13,13 +13,13 @@ The combination of machine learning and human-centered design can ensure that he
 For this purpose , we have used COVID-19 India data present in kaggle at [location](https://www.kaggle.com/sudalairajkumar/covid19-in-india) to estimate gap between available beds and required bed among all states using machine learning .
 The dataset contain following files :-
 
-AgeGroupDetails.csv
-HospitalBedsIndia.csv
-ICMRTestingLabs.csv
-IndividualDetails.csv
-StatewiseTestingDetails.csv
-covid_19_india.csv
-population_india_census201
+* AgeGroupDetails.csv
+* HospitalBedsIndia.csv
+* ICMRTestingLabs.csv
+* IndividualDetails.csv
+* StatewiseTestingDetails.csv
+* covid_19_india.csv
+* population_india_census201
 
 ### Problem :
 
@@ -47,7 +47,7 @@ Number of beds equipped for treating covid-19 patients   =0.05*(Total available 
 
 ### Exploratory Data Analysis :
 
-![](visualizations/top5_confirmed.PNG)
+![](visualizations/top5_confirmed.png)
 
 ![](visualizations/top5_deceased.png)
 

@@ -12,7 +12,7 @@
 6. [Authors](#Authors)
 
 
-## Short Description
+# Short Description
 
 An Intelligent Resource Predictor for Hospital Beds uses the information available on the current patients afflicted with COVID-19 to forecast the demand of hospital beds in each state. It highlights how the demand for beds is likely to grow in the coming days and the shortage that is being faced. This solution can be used by the Hospitals and Government authorities to ramp up the existing Infrastructure and cater to those in need. Every patient should get a chance to get treated and recover.
 
